@@ -1,0 +1,1237 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?aa7pm9');
+  src:  url('fonts/icomoon.eot?aa7pm9#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?aa7pm9') format('truetype'),
+    url('fonts/icomoon.woff?aa7pm9') format('woff'),
+    url('fonts/icomoon.svg?aa7pm9#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-share:before {
+  content: "\e9dd";
+}
+.icon-by-ltp:before {
+  content: "\e99e";
+}
+.icon-trade-charges:before {
+  content: "\e99f";
+}
+.icon-bell-notification:before {
+  content: "\e99b";
+}
+.icon-wallet:before {
+  content: "\e98b";
+}
+.icon-trade-icn:before {
+  content: "\e98c";
+}
+.icon-single-line:before {
+  content: "\e98d";
+}
+.icon-alarm:before {
+  content: "\e908";
+}
+.icon-cancelled:before {
+  content: "\e909";
+}
+.icon-charges:before {
+  content: "\e90a";
+}
+.icon-failed:before {
+  content: "\e90f";
+}
+.icon-success:before {
+  content: "\e925";
+}
+.icon-triangle:before {
+  content: "\e96f";
+}
+.icon-year-return:before {
+  content: "\e926";
+}
+.icon-account:before {
+  content: "\e927";
+}
+.icon-action-by-val:before {
+  content: "\e928";
+}
+.icon-action-by-vol:before {
+  content: "\e929";
+}
+.icon-add-funds:before {
+  content: "\e92a";
+}
+.icon-add-payment-mode:before {
+  content: "\e92b";
+}
+.icon-add-to-watchlist:before {
+  content: "\e92c";
+}
+.icon-address:before {
+  content: "\e92d";
+}
+.icon-arrow:before {
+  content: "\e92e";
+}
+.icon-back-arrow:before {
+  content: "\e92f";
+}
+.icon-bearish:before {
+  content: "\e930";
+}
+.icon-bell-icon:before {
+  content: "\e931";
+}
+.icon-buy:before {
+  content: "\e90e";
+}
+.icon-by-exchanges:before {
+  content: "\e962";
+}
+.icon-by-type:before {
+  content: "\e963";
+}
+.icon-calendar:before {
+  content: "\e964";
+}
+.icon-charts:before {
+  content: "\e913";
+}
+.icon-check:before {
+  content: "\e933";
+}
+.icon-close:before {
+  content: "\e935";
+}
+.icon-copy:before {
+  content: "\e936";
+}
+.icon-delivery:before {
+  content: "\e937";
+}
+.icon-dividend-Earned:before {
+  content: "\e944";
+}
+.icon-dp-id:before {
+  content: "\e945";
+}
+.icon-email:before {
+  content: "\e946";
+}
+.icon-feedback:before {
+  content: "\e94e";
+}
+.icon-filter:before {
+  content: "\e94f";
+}
+.icon-folder:before {
+  content: "\e950";
+}
+.icon-fraud-prevention:before {
+  content: "\e951";
+}
+.icon-icon-choose-ipo:before {
+  content: "\e966";
+}
+.icon-intraday:before {
+  content: "\e967";
+}
+.icon-investment-guide:before {
+  content: "\e942";
+}
+.icon-like:before {
+  content: "\e938";
+}
+.icon-location:before {
+  content: "\e93a";
+}
+.icon-margin:before {
+  content: "\e93b";
+}
+.icon-market-return:before {
+  content: "\e93c";
+}
+.icon-market-value:before {
+  content: "\e952";
+}
+.icon-market-depth:before {
+  content: "\e953";
+}
+.icon-membership-details:before {
+  content: "\e954";
+}
+.icon-mode-of-transfer:before {
+  content: "\e955";
+}
+.icon-net-banking:before {
+  content: "\e956";
+}
+.icon-neutral-trend:before {
+  content: "\e957";
+}
+.icon-neutral:before {
+  content: "\e958";
+}
+.icon-orders:before {
+  content: "\e959";
+}
+.icon-pan-card:before {
+  content: "\e968";
+}
+.icon-phone:before {
+  content: "\e969";
+}
+.icon-portfolio:before {
+  content: "\e96a";
+}
+.icon-privacy-policy:before {
+  content: "\e943";
+}
+.icon-quality:before {
+  content: "\e93d";
+}
+.icon-risk-policies:before {
+  content: "\e93e";
+}
+.icon-roles-responsibilities-for-upi:before {
+  content: "\e93f";
+}
+.icon-edit:before {
+  content: "\e90b";
+}
+.icon-search:before {
+  content: "\e941";
+}
+.icon-sector-return:before {
+  content: "\e95a";
+}
+.icon-see-tags:before {
+  content: "\e95b";
+}
+.icon-select-account:before {
+  content: "\e95c";
+}
+.icon-sell:before {
+  content: "\e95d";
+}
+.icon-sort-by:before {
+  content: "\e95e";
+}
+.icon-sorting:before {
+  content: "\e95f";
+}
+.icon-stock-details:before {
+  content: "\e961";
+}
+.icon-success-status:before {
+  content: "\e96b";
+}
+.icon-terms-and-conditions:before {
+  content: "\e96c";
+}
+.icon-three-dots:before {
+  content: "\e96d";
+}
+.icon-tick:before {
+  content: "\e947";
+}
+.icon-time:before {
+  content: "\e948";
+}
+.icon-valuation:before {
+  content: "\e949";
+}
+.icon-watchlist:before {
+  content: "\e94a";
+}
+.icon-website:before {
+  content: "\e94b";
+}
+.icon-withdraw-funds:before {
+  content: "\e94c";
+}
+.icon-plus:before {
+  content: "\e90c";
+}
+.icon-download-text-pl:before {
+  content: "\e911";
+}
+.icon-download:before {
+  content: "\e912";
+}
+.icon-empty-wallet-tick:before {
+  content: "\e914";
+}
+.icon-logout:before {
+  content: "\e915";
+}
+.icon-market-cap:before {
+  content: "\e916";
+}
+.icon-maximize:before {
+  content: "\e917";
+}
+.icon-minus-square:before {
+  content: "\e918";
+}
+.icon-money-recieve:before {
+  content: "\e919";
+}
+.icon-net-realised:before {
+  content: "\e91a";
+}
+.icon-order-type:before {
+  content: "\e91c";
+}
+.icon-pie-chart:before {
+  content: "\e91e";
+}
+.icon-portfolio-breakup:before {
+  content: "\e91f";
+}
+.icon-gain:before {
+  content: "\e920";
+}
+.icon-low:before {
+  content: "\e921";
+}
+.icon-neutral1:before {
+  content: "\e922";
+}
+.icon-realised:before {
+  content: "\e923";
+}
+.icon-tools:before {
+  content: "\e934";
+}
+.icon-view-order-history:before {
+  content: "\e94d";
+}
+.icon-setting:before {
+  content: "\e96e";
+}
+.icon-cancel:before {
+  content: "\e970";
+}
+.icon-align-left:before {
+  content: "\e972";
+}
+.icon-arrow-long:before {
+  content: "\e90d";
+}
+.icon-unrealsied-gain-loss:before {
+  content: "\e910";
+}
+.icon-pause:before {
+  content: "\e91b";
+}
+.icon-resume:before {
+  content: "\e91d";
+}
+.icon-custom:before {
+  content: "\e924";
+}
+.icon-star:before {
+  content: "\e932";
+}
+.icon-dislike:before {
+  content: "\e939";
+}
+.icon-dislike-outline:before {
+  content: "\e940";
+}
+.icon-like-outline:before {
+  content: "\e960";
+}
+.icon-verify-to-sell:before {
+  content: "\e965";
+}
+.icon-management-risk:before {
+  content: "\e971";
+}
+.icon-calendar-dollar:before {
+  content: "\e973";
+}
+.icon-best-5:before {
+  content: "\e974";
+}
+.icon-drag:before {
+  content: "\e975";
+}
+.icon-minus-symbol:before {
+  content: "\e976";
+}
+.icon-equal-symbol:before {
+  content: "\e977";
+}
+.icon-get-quote:before {
+  content: "\e978";
+}
+.icon-minimize:before {
+  content: "\e979";
+}
+.icon-unlock:before {
+  content: "\e97a";
+}
+.icon-pencil:before {
+  content: "\e97b";
+}
+.icon-sticky:before {
+  content: "\e97c";
+}
+.icon-clender-check:before {
+  content: "\e97d";
+}
+.icon-help:before {
+  content: "\e97e";
+}
+.icon-pin:before {
+  content: "\e97f";
+}
+.icon-error:before {
+  content: "\e980";
+}
+.icon-a-z:before {
+  content: "\e981";
+}
+.icon-rupee:before {
+  content: "\e982";
+}
+.icon-edit-u:before {
+  content: "\e983";
+}
+.icon-by-ltp1:before {
+  content: "\e984";
+}
+.icon-delete:before {
+  content: "\e985";
+}
+.icon-i-symbol:before {
+  content: "\e986";
+}
+.icon-gold-bar:before {
+  content: "\e987";
+}
+.icon-product-type:before {
+  content: "\e988";
+}
+.icon-segment:before {
+  content: "\e989";
+}
+.icon-trade-charges1:before {
+  content: "\e98a";
+}
+.icon-non-trade-charges:before {
+  content: "\e98e";
+}
+.icon-profit:before {
+  content: "\e98f";
+}
+.icon-loss:before {
+  content: "\e990";
+}
+.icon-order-details:before {
+  content: "\e991";
+}
+.icon-park-outline-switch:before {
+  content: "\e992";
+}
+.icon-gtt-history:before {
+  content: "\e993";
+}
+.icon-charges-1:before {
+  content: "\e994";
+}
+.icon-price-movement:before {
+  content: "\e995";
+}
+.icon-stop-loss:before {
+  content: "\e996";
+}
+.icon-trade-history:before {
+  content: "\e997";
+}
+.icon-file-category:before {
+  content: "\e998";
+}
+.icon-triangle-down:before {
+  content: "\e999";
+}
+.icon-confirm-payment:before {
+  content: "\e99a";
+}
+.icon-calendar-close:before {
+  content: "\e99c";
+}
+.icon-slash:before {
+  content: "\e99d";
+}
+.icon-varification-payment:before {
+  content: "\e9a0";
+}
+.icon-net-banking-new:before {
+  content: "\e9a1";
+}
+.icon-realisedGL:before {
+  content: "\e9a2";
+}
+.icon-profit-loss-statement:before {
+  content: "\e9a3";
+}
+.icon-try-again:before {
+  content: "\e9a4";
+}
+.icon-price-change:before {
+  content: "\e9a5";
+}
+.icon-refresh:before {
+  content: "\e9a6";
+}
+.icon-minimize-shrink:before {
+  content: "\e9a7";
+}
+.icon-basket-order:before {
+  content: "\e9a8";
+}
+.icon-split:before {
+  content: "\e9a9";
+}
+.icon-eye:before {
+  content: "\e9aa";
+}
+.icon-sectorType:before {
+  content: "\e9ab";
+}
+.icon-faq1:before {
+  content: "\e9ac";
+}
+.icon-refer-earn:before {
+  content: "\e9ad";
+}
+.icon-statement-funds-added:before {
+  content: "\e9ae";
+}
+.icon-statement-auction-bill:before {
+  content: "\e9af";
+}
+.icon-statement-funds-withdrawn:before {
+  content: "\e9b0";
+}
+.icon-statement-dp-charges:before {
+  content: "\e9b1";
+}
+.icon-statement-transaction-bill:before {
+  content: "\e9b2";
+}
+.icon-bullish:before {
+  content: "\e9b3";
+}
+.icon-people-group:before {
+  content: "\e9b4";
+}
+.icon-maximize-shrink:before {
+  content: "\e9b5";
+}
+.icon-remove-star:before {
+  content: "\e9b6";
+}
+.icon-sip-order:before {
+  content: "\e9b7";
+}
+.icon-star-outline:before {
+  content: "\e9b8";
+}
+.icon-overview:before {
+  content: "\e9b9";
+}
+.icon-gtt-order:before {
+  content: "\e9ba";
+}
+.icon-expand-watchlist:before {
+  content: "\e9bb";
+}
+.icon-add-section-above:before {
+  content: "\e9bc";
+}
+.icon-add-alerts:before {
+  content: "\e9bd";
+}
+.icon-external:before {
+  content: "\e9be";
+}
+.icon-collapse-watchlist:before {
+  content: "\e9bf";
+}
+.icon-table-settings:before {
+  content: "\e9c0";
+}
+.icon-eye-closed:before {
+  content: "\e9c1";
+}
+.icon-option-type-cp:before {
+  content: "\e9c2";
+}
+.icon-profit-loss:before {
+  content: "\e9c3";
+}
+.icon-status:before {
+  content: "\e9c4";
+}
+.icon-long-short:before {
+  content: "\e9c5";
+}
+.icon-row-resize:before {
+  content: "\e9c6";
+}
+.icon-position-details:before {
+  content: "\e9c7";
+}
+.icon-unfilled-arrow-up:before {
+  content: "\e9c8";
+}
+.icon-unfilled-arrow-down:before {
+  content: "\e9c9";
+}
+.icon-draw-line:before {
+  content: "\e9ca";
+}
+.icon-plus-circle:before {
+  content: "\e9cb";
+}
+.icon-flag-slashed:before {
+  content: "\e9cc";
+}
+.icon-flag:before {
+  content: "\e9cd";
+}
+.icon-evoting:before {
+  content: "\e9ce";
+}
+.icon-getquote:before {
+  content: "\e9cf";
+}
+.icon-star-plus:before {
+  content: "\e9d0";
+}
+.icon-energy:before {
+  content: "\e9d1";
+}
+.icon-calculator:before {
+  content: "\e9d2";
+}
+.icon-order-history:before {
+  content: "\e9d3";
+}
+.icon-pin-fill:before {
+  content: "\e9d4";
+}
+.icon-manage-indices:before {
+  content: "\e9d5";
+}
+.icon-moon-line:before {
+  content: "\e9d6";
+}
+.icon-brightness:before {
+  content: "\e9d7";
+}
+.icon-basket:before {
+  content: "\e9d8";
+}
+.icon-action:before {
+  content: "\e9d9";
+}
+.icon-product-type-ci:before {
+  content: "\e9da";
+}
+.icon-bell:before {
+  content: "\e9ea";
+}
+.icon-market-chart:before {
+  content: "\e9db";
+}
+.icon-candlestick:before {
+  content: "\e9dc";
+}
+.icon-grouped-positions:before {
+  content: "\e9de";
+}
+.icon-group-option:before {
+  content: "\e9df";
+}
+.icon-position-line:before {
+  content: "\e9e0";
+}
+.icon-close-light:before {
+  content: "\e9e1";
+}
+.icon-option-chain:before {
+  content: "\e9e2";
+}
+.icon-trade-one:before {
+  content: "\e9e3";
+}
+.icon-trade-one-new:before {
+  content: "\e9e5";
+}
+.icon-lock:before {
+  content: "\e9e4";
+}
+.icon-demerger:before {
+  content: "\e9e6";
+}
+.icon-merger:before {
+  content: "\e9e7";
+}
+.icon-bonus:before {
+  content: "\e9e8";
+}
+.icon-split-new:before {
+  content: "\e9e9";
+}
+.icon-c:before {
+  content: "\e9eb";
+}
+.icon-instant-order:before {
+  content: "\e9ec";
+}
+.icon-refresh-new:before {
+  content: "\e9ed";
+}
+.icon-prefill:before {
+  content: "\e9ee";
+}
+.icon-stock-com:before {
+  content: "\e9ef";
+}
+.icon-orders-path:before {
+  content: "\e9f0";
+}
+.icon-filter-new:before {
+  content: "\e9f1";
+}
+.icon-play:before {
+  content: "\e9f2";
+}
+.icon-add-other-watchlist:before {
+  content: "\e9f3";
+}
+.icon-lock-browser:before {
+  content: "\e9f4";
+}
+.icon-bell-fill:before {
+  content: "\e9f5";
+}
+.icon-layout-change:before {
+  content: "\e9f6";
+}
+.icon-announcement-outline:before {
+  content: "\e9f7";
+}
+.icon-list:before {
+  content: "\e9f8";
+}
+.icon-grid:before {
+  content: "\e9f9";
+}
+.icon-lite-arrow:before {
+  content: "\e9fa";
+}
+.icon-double-arrow:before {
+  content: "\e9fb";
+}
+.icon-failed-fill:before {
+  content: "\e9fc";
+}
+.icon-reject:before {
+  content: "\e9fd";
+}
+.icon-cancel-fill:before {
+  content: "\e9fe";
+}
+.icon-success-fill:before {
+  content: "\e9ff";
+}
+.icon-auto:before {
+  content: "\ea00";
+}
+.icon-textile:before {
+  content: "\ea01";
+}
+.icon-chemical:before {
+  content: "\ea02";
+}
+.icon-pharma:before {
+  content: "\ea03";
+}
+.icon-fmcg:before {
+  content: "\ea04";
+}
+.icon-finance:before {
+  content: "\ea05";
+}
+.icon-banking:before {
+  content: "\ea06";
+}
+.icon-software:before {
+  content: "\ea07";
+}
+.icon-nav-home-active:before {
+  content: "\ea17";
+}
+.icon-nav-home:before {
+  content: "\ea18";
+}
+.icon-popout:before {
+  content: "\ea08";
+}
+.icon-stock-sip:before {
+  content: "\ea09";
+}
+.icon-nav-alerts-active:before {
+  content: "\ea0a";
+}
+.icon-nav-watchlist-active:before {
+  content: "\ea13";
+}
+.icon-nav-portfolio:before {
+  content: "\ea12";
+}
+.icon-nav-portfolio-active:before {
+  content: "\ea11";
+}
+.icon-nav-watchlist:before {
+  content: "\ea14";
+}
+.icon-nav-market-active:before {
+  content: "\ea15";
+}
+.icon-nav-market:before {
+  content: "\ea16";
+}
+.icon-gtt:before {
+  content: "\ea0b";
+}
+.icon-plus-rounded:before {
+  content: "\ea0c";
+}
+.icon-nav-alerts:before {
+  content: "\ea0d";
+}
+.icon-nav-tools:before {
+  content: "\ea19";
+}
+.icon-nav-tools-active:before {
+  content: "\ea0e";
+}
+.icon-option-strategy:before {
+  content: "\ea1a";
+}
+.icon-save:before {
+  content: "\ea1b";
+}
+.icon-stock-composition:before {
+  content: "\ea1c";
+}
+.icon-trade-profit-charges:before {
+  content: "\ea1d";
+}
+.icon-ask-angel:before {
+  content: "\ea1e";
+}
+.icon-new-window:before {
+  content: "\ea1f";
+}
+.icon-power:before {
+  content: "\ea20";
+}
+.icon-cement:before {
+  content: "\ea21";
+}
+.icon-capital:before {
+  content: "\ea22";
+}
+.icon-oil:before {
+  content: "\ea23";
+}
+.icon-retail:before {
+  content: "\ea24";
+}
+.icon-iron:before {
+  content: "\ea25";
+}
+.icon-consumerdurables:before {
+  content: "\ea26";
+}
+.icon-qr-code:before {
+  content: "\ea27";
+}
+.icon-improved-tax-efficiency:before {
+  content: "\ea28";
+}
+.icon-reduced-fees:before {
+  content: "\ea29";
+}
+.icon-well-structured:before {
+  content: "\ea2a";
+}
+.icon-risk-meter:before {
+  content: "\ea2b";
+}
+.icon-dropdown:before {
+  content: "\ea5c";
+}
+.icon-plus-slim:before {
+  content: "\ea5d";
+}
+.icon-minus-slim:before {
+  content: "\ea5e";
+}
+.icon-otp-pledge:before {
+  content: "\ea5f";
+}
+.icon-clock_v2:before {
+  content: "\ea60";
+}
+.icon-info:before {
+  content: "\ea61";
+}
+.icon-password-protected:before {
+  content: "\ea62";
+}
+.icon-plus-word:before {
+  content: "\ea63";
+}
+.icon-warning:before {
+  content: "\e900";
+}
+.icon-no-trades-found:before {
+  content: "\ea83";
+}
+.icon-triangle-round:before {
+  content: "\ea87";
+  color: #717a89;
+}
+.icon-add-to-watchlist1:before {
+  content: "\ea2c";
+}
+.icon-calendar1:before {
+  content: "\ea2d";
+}
+.icon-clock:before {
+  content: "\ea2f";
+}
+.icon-close1:before {
+  content: "\ea30";
+}
+.icon-dark-theme:before {
+  content: "\ea31";
+}
+.icon-down:before {
+  content: "\ea32";
+}
+.icon-drag-vertical:before {
+  content: "\ea33";
+}
+.icon-edit-box:before {
+  content: "\ea34";
+}
+.icon-edit1:before {
+  content: "\ea35";
+}
+.icon-estimated:before {
+  content: "\ea36";
+}
+.icon-filter1:before {
+  content: "\ea37";
+}
+.icon-history:before {
+  content: "\ea38";
+}
+.icon-income:before {
+  content: "\ea39";
+}
+.icon-info1:before {
+  content: "\ea3a";
+}
+.icon-left:before {
+  content: "\ea3b";
+}
+.icon-light-theme:before {
+  content: "\ea3c";
+}
+.icon-logout1:before {
+  content: "\ea3d";
+}
+.icon-main-notification:before {
+  content: "\ea3e";
+}
+.icon-maximize1:before {
+  content: "\ea3f";
+}
+.icon-minimize1:before {
+  content: "\ea40";
+}
+.icon-monitor:before {
+  content: "\ea42";
+}
+.icon-more-vertical:before {
+  content: "\ea43";
+}
+.icon-open-charts:before {
+  content: "\ea44";
+}
+.icon-option-chain1:before {
+  content: "\ea45";
+}
+.icon-outgoing:before {
+  content: "\ea46";
+}
+.icon-pin1:before {
+  content: "\ea48";
+}
+.icon-right:before {
+  content: "\ea49";
+}
+.icon-search-large:before {
+  content: "\ea4a";
+}
+.icon-search1:before {
+  content: "\ea4b";
+}
+.icon-settings:before {
+  content: "\ea4c";
+}
+.icon-sort:before {
+  content: "\ea4d";
+}
+.icon-star1:before {
+  content: "\ea4e";
+}
+.icon-stock-composition1:before {
+  content: "\ea4f";
+}
+.icon-trending-down:before {
+  content: "\ea50";
+}
+.icon-trending-up:before {
+  content: "\ea51";
+}
+.icon-un-pin:before {
+  content: "\ea52";
+}
+.icon-up:before {
+  content: "\ea53";
+}
+.icon-view:before {
+  content: "\ea54";
+}
+.icon-desktop:before {
+  content: "\ea55";
+}
+.icon-tablet:before {
+  content: "\ea56";
+}
+.icon-add-funds-new:before {
+  content: "\ea57";
+}
+.icon-chat-bot:before {
+  content: "\ea58";
+}
+.icon-medal-star:before {
+  content: "\ea59";
+}
+.icon-withdraw-funds-new:before {
+  content: "\ea5a";
+}
+.icon-award:before {
+  content: "\e901";
+}
+.icon-trophy:before {
+  content: "\e902";
+}
+.icon-track-price:before {
+  content: "\e903";
+}
+.icon-smart-beta:before {
+  content: "\e904";
+}
+.icon-NSE:before {
+  content: "\e905";
+}
+.icon-global:before {
+  content: "\e906";
+}
+.icon-debt:before {
+  content: "\e907";
+}
+.icon-sector:before {
+  content: "\ea64";
+}
+.icon-gift:before {
+  content: "\ea65";
+}
+.icon-new-user:before {
+  content: "\ea66";
+}
+.icon-success-tick:before {
+  content: "\ea67";
+}
+.icon-upi:before {
+  content: "\ea69";
+}
+.icon-info2:before {
+  content: "\ea6a";
+}
+.icon-add-alert-new:before {
+  content: "\ea2e";
+}
+.icon-dividend-earned-new:before {
+  content: "\ea6b";
+}
+.icon-market-depth-new:before {
+  content: "\ea6d";
+}
+.icon-pie-chart-new:before {
+  content: "\ea6e";
+}
+.icon-chart-new:before {
+  content: "\ea47";
+}
+.icon-gtt-order-new:before {
+  content: "\ea6c";
+}
+.icon-stock-details-new:before {
+  content: "\ea6f";
+}
+.icon-download-new:before {
+  content: "\ea70";
+}
+.icon-message:before {
+  content: "\ea72";
+}
+.icon-rupee-new:before {
+  content: "\ea73";
+}
+.icon-window-close:before {
+  content: "\ea75";
+}
+.icon-folder-new:before {
+  content: "\ea71";
+}
+.icon-sip-order-new:before {
+  content: "\ea77";
+}
+.icon-basket-order-new:before {
+  content: "\ea76";
+}
+.icon-chart-square:before {
+  content: "\ea79";
+}
+.icon-graph:before {
+  content: "\ea78";
+}
+.icon-trend-up:before {
+  content: "\ea7a";
+}
+.icon-delete-new:before {
+  content: "\ea7b";
+}
+.icon-plus-circle-new:before {
+  content: "\ea7c";
+}
+.icon-enter:before {
+  content: "\ea7d";
+}
+.icon-pin-fill-new:before {
+  content: "\ea7e";
+}
+.icon-pin-new:before {
+  content: "\ea7f";
+}
+.icon-funds:before {
+  content: "\ea74";
+}
+.icon-ipo:before {
+  content: "\ea80";
+}
+.icon-alerts-fill:before {
+  content: "\ea81";
+}
+.icon-ungroup:before {
+  content: "\ea84";
+}
+.icon-buy-new:before {
+  content: "\ea85";
+}
+.icon-preset-alert:before {
+  content: "\ea86";
+}
+.icon-minus:before {
+  content: "\ea41";
+}
+.icon-sort-new:before {
+  content: "\ea88";
+}
+.icon-expand-watchlist-new:before {
+  content: "\ea89";
+}
+.icon-open-trade-one:before {
+  content: "\ea8a";
+}
+.icon-unflag:before {
+  content: "\ea8b";
+}
+.icon-hide:before {
+  content: "\ea8c";
+}
+.icon-flag-new:before {
+  content: "\ea8d";
+}
+.icon-collapse-watchlist-new:before {
+  content: "\ea8e";
+}
+.icon-add-section-above-new:before {
+  content: "\ea8f";
+}
+.icon-column-settings:before {
+  content: "\ea90";
+}
+.icon-detach:before {
+  content: "\ea92";
+}
+.icon-layout-change1:before {
+  content: "\ea91";
+}
+.icon-nav-orders:before {
+  content: "\ea0f";
+}
+.icon-nav-positions:before {
+  content: "\ea10";
+}
+.icon-nav-orders-active:before {
+  content: "\ea93";
+}
+.icon-nav-positions-active:before {
+  content: "\ea94";
+}
+.icon-upi-id:before {
+  content: "\ea95";
+}
